@@ -1,8 +1,8 @@
-## Daily-react-068-surface-wave-simulation-app
+## Daily-react-069-running-route-app
 
-> Challenge: create wave simulation app.
+> Challenge: create a running route app.
 
-Work in progress: https://github.com/daily-react-068-surface-wave-simulation-app
+Work in progress: https://github.com/daily-react-069-running-route-app
 
 
 Road-map:
@@ -15,7 +15,7 @@ Road-map:
 
 ---
 
-![Alt text](src/images/daily-react-068-surface-wave-simulation-app.png?raw=true "App UI")
+![Alt text](src/images/daily-react-069-running-route-app.png?raw=true "App UI")
 
 ---
 
